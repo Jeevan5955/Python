@@ -32,3 +32,4 @@ OOP EXERCISES :
 1. Basic bank account.
 2. Line class methods to accept coordinates as a pair of tuples and return the slope and distance of the line.
 3. Volume and Area of a cylinder.
+4. Area and circumference of a circle.
