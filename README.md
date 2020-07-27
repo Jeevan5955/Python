@@ -22,6 +22,10 @@ FUNCTION EXERCISES :
 18. Write a function that returns the number of prime numbers that exist up to and including a given number.
 19. Write a function that takes in a list of integers and returns True if it contains 007 in order.
 20. Write a function that takes in a single letter, and returns a 5x5 representation of that letter.
+21. Checking for a even no in a list.py
+22. FizzBuzz.py
+23. Three cup monte.py
+
                     
 OOP EXERCISES : 
 
